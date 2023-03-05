@@ -12,12 +12,15 @@ I suggest to follow the following instruction, which i think is best to learn
 each algorithm.
 
 - clone the main branch
+
   `git clone -b main --single-branch git@github.com:techBoolo/algorithms-using-javascript.git`
 
 - install the dependencies
+
   `npm install`
 
 - from now on just pull / fetch one algorithm branch at a time and solve the problem,
+
   for the problem statement please refer the web 
 
  ```
@@ -28,14 +31,18 @@ each algorithm.
 ``` 
 
 - run the test for the choosen algorithm
+
   `npm run test`
 
 - the test will fail, to pass the test implement your solution by creating a
-  file in the algorithms folder for each algorithm problem
+  file in the algorithms folder for each algorithm problem, if you found the
+file just wipe the content and do your solution
+
   `touch ./algorithms/anagrams.js`
 
 - when you finish the implementation, run the test again and check it all the
   tests have passed.
+
   `npm run test`
 
 - you can always check the solutions in the github repo for a hint, if you get
@@ -43,7 +50,7 @@ each algorithm.
   
 ## Congratulation you have done it.
 
-### Then you know what to do next  **Loop** 
+#### Then you know what to do next  _**Loop**_
 
 # Next
 
