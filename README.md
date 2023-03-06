@@ -1,6 +1,7 @@
 # Algorithm using javascript
 
-do the algorithms once in a while
+do the algorithms once in a while.
+
 for each algorithm problem statement please refer the web
 
 ## Project organization
@@ -9,7 +10,7 @@ You don't have to clone the entire project repository once, it might overwhelm
 you,
 
 I suggest to follow the following instruction, which i think is best to learn
-each algorithm.
+algorithm by doing a single problem taking your time.
 
 - clone the main branch
 
@@ -21,7 +22,7 @@ each algorithm.
 
 - from now on just pull / fetch one algorithm branch at a time and solve the problem,
 
-  for the problem statement please refer the web 
+  > for the problem statement please refer the web.
 
  ```
   [the following branch has taken as an example, just change the name for the rest]
@@ -40,19 +41,18 @@ file just wipe the content and do your solution
 
   `touch ./algorithms/anagrams.js`
 
-- when you finish the implementation, run the test again and check it all the
+- when you finish the implementation, run the test again and check if all the
   tests have passed.
 
   `npm run test`
 
-- you can always check the solutions in the github repo for a hint, if you get
-  stuck
-  
+- if you get stuck. you can always check the solutions in the github repo for a hint.
+
 ## Congratulation you have done it.
 
-#### Then you know what to do next  _**Loop**_
+#### Then you know what to do next  _**'Loop'**_
 
 # Next
 
-We will see how to organize your solutions when you have more than one solution
-for an algorithm.
+We will see how to organize our solutions when we have more than one algorithm solution
+for a given problem.
