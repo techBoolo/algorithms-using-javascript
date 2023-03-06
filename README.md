@@ -48,6 +48,9 @@ file just wipe the content and do your solution
 
 - if you get stuck. you can always check the solutions in the github repo for a hint.
 
+  > the branch with the '-solution' appended is one possible solution
+
+
 ## Congratulation you have done it.
 
 #### Then you know what to do next  _**'Loop'**_
